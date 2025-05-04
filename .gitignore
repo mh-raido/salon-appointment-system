@@ -1,0 +1,8 @@
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# エディタの設定ファイル
+.vscode/
+.idea/
+*.swp
